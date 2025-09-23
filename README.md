@@ -42,7 +42,6 @@ awsc s3 ls
 # List EC2 instances
 awsc ec2 describe-instances
 
-
 # Any AWS command works
 awsc cloudformation list-stacks
 ```
